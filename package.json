@@ -1,0 +1,23 @@
+{
+  "name": "firestore-orm-test",
+  "version": "1.0.4",
+  "description": "",
+  "main": "dist/index.js",
+  "types" : "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "3.2.45",
+    "@vueuse/core": "^9.11.0",
+    "pinia": "2.0.29",
+    "algoliasearch": "^4.14.3",
+    "moment-with-locales-es6": "^1.0.1",
+    "firebase": "^9.17.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
